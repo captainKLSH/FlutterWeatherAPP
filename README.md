@@ -8,6 +8,11 @@ A sleek, modern Flutter application that provides real-time weather insights usi
 
 The Weather Flutter App is a specialized tool designed to fetch, parse, and display live meteorological data. It follows a strict separation of concerns, ensuring that networking logic never leaks into the UI layer.
 
+
+|<img src="w1.png" width="200">|<img src="w2.png" width="200">|<img src="app.gif" width="200">|
+|-|-|-|
+
+
 ### Architecture (MVVM-inspired)
 * **Models**: Immutable data structures representing API responses.
 * **Services**: The engine room for HTTP requests and JSON serialization.
